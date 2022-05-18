@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-  "author": "Seyed Hamid Tabari"
+  "author": "Seyed Hamid Tabari",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
